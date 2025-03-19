@@ -1,0 +1,15 @@
+[{
+    "id":1,
+    "college": "International Institute of Information Technology (Online)",
+    "degree": "PG Diploma in Software Development",
+    "location": "Bengaluru, India",
+    "yoe": "Sept 2023-Oct 2024"
+  },
+  {
+    "id":2,
+    "college": "PSNA college of Engineering and Technology",
+    "degree": "B.E-Electronics and Communication Engineering",
+    "location": "Dindigul, Tamilnadu, India",
+    "yoe": "Aug 2014-April 2018"
+  }
+]

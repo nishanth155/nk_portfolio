@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Booking Consulation Appointment",
+        "description": "A web application that allows users to book an appointment with a consultant. The user can view the available slots and book an appointment. The consultant can view the appointments and mark them as completed.",
+        "techStack": ["Java","Spring Boot","ReactJS", "MySQL","Material UI","JWT","RESTful API","Junit"],
+        "github": ""
+    },
+    {
+        "id": 2,
+        "name": "Personal Portfolio",
+        "description": "A personal portfolio website that showcases my projects, educations, and skills. The website is built using ReactJS and Material UI.",
+        "techStack": ["ReactJS","Tailwind CSS"],
+        "github": ""
+    },
+    {
+        "id": 3,
+        "name": "Project Management System",
+        "description": "A web application that allows users to create projects, add tasks, and assign tasks to team members. The user can view the project details and update the status of the project.",
+        "techStack": ["ReactJS","Material UI"],
+        "github": ""
+    }
+]
