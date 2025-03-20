@@ -4,7 +4,7 @@ import resume from '../assets/pdf/NISHANTHKUMAR_P_2025.pdf'
 import download from '../assets/download_icon.svg'
 export default function Home() {
 
-  const roles = ["Frontend Developer","Backend Developer","Software Developer"];
+  const roles = ["Frontend Developer","Backend Developer","Site Reliability Engineer"];
 
   return (
     <div className='m-8 grid grid-flow-col max-md:grid-flow-row'>
